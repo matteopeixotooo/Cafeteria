@@ -182,7 +182,7 @@ p {
   background-color: #604829;
   margin: 40px auto 20px;
   border-radius: 5px;
-  width: 100%;
+  width: 40%;
 }
 
 iframe {
@@ -364,3 +364,4 @@ footer {
     width: 20%;
   }
 }
+
