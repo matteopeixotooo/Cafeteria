@@ -294,7 +294,7 @@ footer {
 
 @media (max-width: 1200px) {
   section {
-    padding: 20px 80px;
+    padding: 20px 40px;
   }
 
   .botao {
@@ -399,3 +399,4 @@ footer {
     line-height: 20px;
   }
 }
+
